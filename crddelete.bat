@@ -6,3 +6,5 @@ kubectl get crd prometheuses.monitoring.coreos.com
 kubectl get crd prometheusrules.monitoring.coreos.com
 kubectl get crd servicemonitors.monitoring.coreos.com
 kubectl get crd thanosrulers.monitoring.coreos.com
+
+
